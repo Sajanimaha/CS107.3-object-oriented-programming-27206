@@ -1,0 +1,8 @@
+C:\Users\hp\Downloads\lab1 -1\lab1 -1\Lab1-1\Lab1-1\obj\Debug\Lab1-1.csproj.AssemblyReference.cache
+C:\Users\hp\Downloads\lab1 -1\lab1 -1\Lab1-1\Lab1-1\obj\Debug\Lab1-1.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Downloads\lab1 -1\lab1 -1\Lab1-1\Lab1-1\obj\Debug\Lab1-1.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\lab1 -1\lab1 -1\Lab1-1\Lab1-1\bin\Debug\Lab1-1.exe.config
+C:\Users\hp\Downloads\lab1 -1\lab1 -1\Lab1-1\Lab1-1\bin\Debug\Lab1-1.exe
+C:\Users\hp\Downloads\lab1 -1\lab1 -1\Lab1-1\Lab1-1\bin\Debug\Lab1-1.pdb
+C:\Users\hp\Downloads\lab1 -1\lab1 -1\Lab1-1\Lab1-1\obj\Debug\Lab1-1.exe
+C:\Users\hp\Downloads\lab1 -1\lab1 -1\Lab1-1\Lab1-1\obj\Debug\Lab1-1.pdb
